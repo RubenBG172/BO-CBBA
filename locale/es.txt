@@ -1,13 +1,56 @@
 #: locale=es
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_C25AA23E_D9BA_DA11_41DD_DB12A0DB6C8C.toolTip = Estadio Sudamericano Félix Capriles
+HotspotPanoramaOverlayArea_CD56F7C7_D9FD_DA7F_41CA_9D3DDED7DB1B.toolTip = Jardín Botánico Martín Cárdenas
+HotspotPanoramaOverlayArea_C4403A7A_D9DF_EA11_41E8_456AD358B596.toolTip = Plazuela Quintanilla
+
 ## Media
+
+### Audio
+audiores_C0D5FDDB_D87A_AE17_41DD_9D4E4158878D.mp3Url = media/audio_C001FEF8_D87A_EA11_41E2_0D4381C8F5BC_es.mp3
+audiores_C09F7410_D877_5E11_41C6_70F45CF7FE49.mp3Url = media/audio_C21EA965_D84D_5630_41E9_7476345D9F05_es.mp3
+audiores_C083F8B3_D877_7617_41C3_87D9709B5B38.mp3Url = media/audio_C26B55C8_D84D_5E71_41D9_94559AF5971B_es.mp3
 
 ### Título
 panorama_C0A99C46_D463_947B_41DA_A8736BAFE9A0.label = IMG_20240222_172909_00_merged(1)
+album_C1E6D93F_D9CD_B610_41C1_0346E92B5B47_0.label = PQ1
+photo_C0108491_D9CB_7E13_41C3_FAF37569243F.label = PQ1
+photo_C3541AEC_D9B6_AA30_41E1_5C03812CEC85.label = Stadium1
+photo_C3541AEC_D9B6_AA30_41E1_5C03812CEC85.label = Stadium1
+photo_C0F586D5_D85B_5A10_41D8_C77AD459C3E1.label = cristo1
+photo_C3284196_D9CA_D611_41DB_CC9829743592.label = jardin1
+photo_CE10AD7A_D9FA_EE10_41E8_C746BF6476C8.label = jardin1
+photo_CE667D91_D9D5_6E13_41B1_9D22462D8AE0.label = map1
+photo_CE667D91_D9D5_6E13_41B1_9D22462D8AE0.label = map1
+photo_C202F0E9_D9D5_5633_41E6_1DB74BE068CB.label = map2
+photo_C202F0E9_D9D5_5633_41E6_1DB74BE068CB.label = map2
+photo_C0FE88B9_D9CA_D613_4181_1BF50981CA58.label = map3
+photo_C0FE88B9_D9CA_D613_4181_1BF50981CA58.label = map3
+photo_C3A643C0_D9FA_BA71_41EA_17AEC7923B80.label = map4
+photo_C3A643C0_D9FA_BA71_41EA_17AEC7923B80.label = map4
+album_C1E6D93F_D9CD_B610_41C1_0346E92B5B47.label = Álbum de Fotos PQ1
+album_C99E376E_D87A_DA31_41E6_FD9CD107F24B.label = Álbum de Fotos cristo1
 
 ## Tour
 
 ### Descripción
 
 ### Título
-tour.name = Sin Título 2
+tour.name = CBBA
+
+## Ventana
+
+### Cuerpo
+htmlText_CE81F4BE_D9CD_5E11_41D9_4C6648C6805C.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.83vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.83vmax;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CB50429B_D85D_DA10_41E0_F991C8308D41.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El Cristo de la Concordia es una estatua monumental de Jesucristo, ubicada sobre el cerro de San Pedro en la ciudad de Cochabamba, Bolivia, a una altura de 265 m sobre la ciudad. La estatua mide 34,20 m de altura, sobre un pedestal de 6,24 m, con una altura total de 40,44 m. </SPAN></DIV></BODY></HTML></div>
+htmlText_C6275D60_D9BE_AE31_41DE_7C269CE88ACD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El Estadio Sudamericano Félix Capriles Sainz es un estadio multipropósito y es el campo más grande en la ciudad de Cochabamba (Bolivia) a 2582 m s n m. Comenzó a construirse tras la Ley Peñaranda del 7 de noviembre de 1922. El gobierno de Bautista Saavedra autorizaba la compra de terrenos a la familia Cuéllar en la campiña de Cala Cala, pero tuvieron que pasar siete décadas para ver el final de la obra en 1997 con su remodelación final.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El Estadio tiene una capacidad real para 30 303 espectadores sentados. La medición fue realizada en la gestión 2018 por parte del Servicio Departamental del Deporte (Sedede) de Cochabamba.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El Estadio cuenta con una pista atlética de tartán de 8 carriles que fue inaugurada en 1993 en ocasión de los Juegos Deportivos Bolivarianos que Cochabamba conjuntamente Santa Cruz organizaron.</SPAN></DIV></BODY></HTML></div>
+htmlText_C093BB98_D9FE_AA11_41D8_130ECE04EF9E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El Jardín Botánico Martín Cárdenas surgió como un homenaje al más grande de los botánicos bolivianos Martín Cárdenas Hermosa, nacido en Cochabamba, gran investigador de campo, y fundador de la Facultad de Biología de la Universidad Mayor de San Simón y rector de la misma durante dos gestiones.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Entre los objetivos del jardín botánico se encuentran el de promover la investigación, la enseñanza y el de exhibición de la flora de la provincia de Cochabamba, así como la conservación de la diversidad florística y de sus endemismos. Fue creado en 1962</SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_CB57F29B_D85D_DA10_41EA_A87070AA641F.title = Cristo de la Concordia
+window_C6254D5F_D9BE_AE0F_41C9_CF3E4B97EFE0.title = Estadio Sudamericano Félix Capriles
+window_C0919B97_D9FE_AA1F_41E0_11BEDD2267D0.title = Jardín Botánico Martín Cárdenas
+window_CE8304BE_D9CD_5E11_41CC_367AA16A3A47.title = Plazuela Quintanilla
