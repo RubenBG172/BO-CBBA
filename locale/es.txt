@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_C0A99C46_D463_947B_41DA_A8736BAFE9A0.label = IMG_20240222_172909_00_merged(1)
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 2
